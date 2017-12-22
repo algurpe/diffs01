@@ -1,1 +1,3 @@
-hello\ngood bye
+hello
+good bye
+
