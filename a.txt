@@ -1,1 +1,1 @@
-hello\ngood bye
+hello\nwait\ngood bye
